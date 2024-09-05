@@ -52,4 +52,3 @@ del proyecto. Luego, se puede compilar y ejecutar moviéndonos a la pestaña de
 - [Cómo utilizar el debugger](https://docs.utnso.com.ar/guias/herramientas/debugger)
 - [Cómo configuramos Visual Studio Code](https://docs.utnso.com.ar/guias/herramientas/code)
 # Primer-Hola-Mundo-XUbuntu-UTNFRBA
-# Primer-Hola-Mundo-XUbuntu-UTNFRBA
